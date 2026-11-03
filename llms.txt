@@ -6,6 +6,7 @@
 - [Website](https://mr-vero.github.io/): canonical profile page
 - [LinkedIn](https://www.linkedin.com/in/mrvero): career history and recommendations
 - [GitHub](https://github.com/Mr-vero): code and project case studies (6,400+ contributions since 2016)
+- [Portfolio](https://irvan-works.vercel.app/): 57 detailed case studies out of 100+ projects shipped since 2015
 
 ## Expertise
 - AI strategy and architecture: choosing between RAG, fine-tuning and agents, and costing them

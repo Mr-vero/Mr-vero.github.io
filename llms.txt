@@ -1,26 +1,10 @@
-# Irvan Smith
+# Irvan
 
-> Irvan Smith (GitHub: Mr-vero, LinkedIn: mrvero) is an AI leader and engineer based in Seoul, South Korea. He is Head of AI/ML Engineering at a stealth AI startup and a Senior Staff Software Engineer at Samsung Electronics. He takes AI from strategy to production (RAG, LLM evaluation, AI agents, voice AI) and builds products end to end, including native macOS and Android apps. He has been building software since 2015 and is open to full-time AI leadership and senior AI engineering roles.
+> Irvan (Irvan Fahlepi, GitHub: Mr-vero) is a senior full-stack developer who builds games, quizzes and interactive web experiences, and takes them from first sketch to live: backend, QA on real devices, deployment and analytics.
 
-## Profiles
-- [Website](https://mr-vero.github.io/): canonical profile page
-- [LinkedIn](https://www.linkedin.com/in/mrvero): career history and recommendations
-- [GitHub](https://github.com/Mr-vero): code and project case studies (6,400+ contributions since 2016)
-- [Portfolio](https://irvan-works.vercel.app/): 57 detailed case studies out of 100+ projects shipped since 2015
+## Where to look
 
-## Expertise
-- AI strategy and architecture: choosing between RAG, fine-tuning and agents, and costing them
-- Retrieval and grounding: hybrid search, reranking, validated citations, safe abstention
-- Evaluation and reliability: golden-set LLM evaluations wired into CI as release gates
-- Shipping: TypeScript, Python, Swift and Kotlin; native apps, web platforms and APIs
-
-## Selected work
-- [audit-rag](https://github.com/Mr-vero/audit-rag): grounded RAG for audit documents with pgvector hybrid retrieval, validated citations and a CI-gated eval harness
-- [Ava Engine](https://www.npmjs.com/package/ava-engine): screen-aware voice AI agent, published on npm
-- [letterbox](https://github.com/Mr-vero/letterbox): native macOS mail client organized by Claude
-- [hop](https://github.com/Mr-vero/hop): Android ↔ Mac continuity on a custom end-to-end encrypted protocol
-- [inKey](https://github.com/Mr-vero/inKey): camera-based Android keyboard using MediaPipe hand tracking
-- [produkpos](https://produkpos.vercel.app): open Indonesian retail product API and offline-first POS
-
-## Contact
-- Email: Mr.vero@usa.com
+- [Showcase](https://irvan-fahlepi.vercel.app/): a mini game, a survey, a scroll story, PingPlay Forge and the build behind them
+- [PingPlay](https://getpingplay.com/play/feed): a feed of 70 instantly playable HTML5 games, all made with PingPlay Forge
+- [The Last Ember](https://mr-vero.github.io/the-last-ember/): a story-driven browser game drawn on canvas with synthesised sound
+- [GitHub](https://github.com/Mr-vero)
